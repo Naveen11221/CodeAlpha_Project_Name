@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(107, 142, 255);
+    font-size: larger;
+}
+
+.container {
+    height: 600px;
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(252, 137, 137);
+    border: 5px solid rgb(255, 255, 255);
+}
+#calculateButton{
+    height: 40px;
+    width: 200px;
+    background-color: rgb(114, 114, 249);
+    color: white;
+    font-size: larger;
+}
